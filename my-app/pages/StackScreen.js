@@ -1,5 +1,5 @@
 import React from "react";
-import {  } from "react-native";
+import { StyleSheet, View, Button } from "react-native";
 
 export default function StackScreen( { navigation } ) {
     return (
